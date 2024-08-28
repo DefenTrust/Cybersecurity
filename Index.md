@@ -11,9 +11,7 @@ Welcome to the **DefenTrust Cybersecurity** page! We provide the latest news, in
 
 ## Latest Posts
 
-- [Understanding Zero-Day Vulnerabilities](posts/zero-day-vulnerabilities.md)
-- [Top 10 Cybersecurity Threats in 2024](posts/top-10-cybersecurity-threats-2024.md)
-- [Beginner's Guide to Ethical Hacking](posts/beginners-guide-ethical-hacking.md)
+- [Understanding Zero-Day Vulnerabilities](posts/Cybersecurity-news.md)
 
 ## Categories
 
