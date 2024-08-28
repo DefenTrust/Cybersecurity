@@ -1,0 +1,5 @@
+title: DefenTrust Cybersecurity
+description: A page dedicated to cybersecurity, hacking, and vulnerability news.
+theme: jekyll-theme-cayman
+baseurl: "/Cybersecurity" # Your repository name
+url: "https://defentrust.github.io" # Your GitHub Pages URL
