@@ -11,7 +11,7 @@ Welcome to the **DefenTrust Cybersecurity** page! We provide the latest news, in
 
 ## Latest Posts
 
-- [Understanding Zero-Day Vulnerabilities](cyber-news/Cybersecurity-news.md)
+- [Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking](Cyber-News/Cyber-News/Cybersecurity-news.md)
 
 ## Categories
 
